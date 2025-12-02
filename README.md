@@ -37,6 +37,7 @@
   本书地址
   <a href="https://github.com/d2l-ai/d2l-zh">d2l</a>
 </p>
+
 ---
 
 ## ⏳ 深度学习简史：巨人的肩膀
