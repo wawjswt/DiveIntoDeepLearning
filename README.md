@@ -1,3 +1,4 @@
+
 <!-- 头部：动态打字机效果 -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7931A&center=true&vCenter=true&width=800&lines=Dive+Into+Deep+Learning;From+Zero+to+Hero+in+AI;Code+%2B+Math+%2B+Theory;PyTorch+Implementation" alt="Typing SVG" />
@@ -79,6 +80,8 @@
 
 ## 🗺️ 学习路线图
 
+<img src="./assets/flow.png" alt="流程图" style="width: 50%; max-width: 400px; display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+
 本项目分为三个核心部分，带你从入门到精通：
 
 ### 🟢 第一部分：基础与预备
@@ -98,6 +101,8 @@
 *   **优化算法**：Adam, SGD, 学习率调度。
 *   **计算机视觉应用**：目标检测 (YOLO), 语义分割。
 *   **NLP 与 预训练模型**：BERT, GPT 的原理与微调。
+
+
 
 ---
 
