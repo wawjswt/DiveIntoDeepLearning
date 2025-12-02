@@ -47,23 +47,29 @@
 <div align="center">
 <table align="center" style="border:none">
   <tr>
+    <!-- 图1：感知机 -->
+    <!-- 使用 D2L 中文官网的单层神经网络图 -->
     <td align="center" width="33%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mark_I_Perceptron%2C_Figure_2_of_operator%27s_manual.png/640px-Mark_I_Perceptron%2C_Figure_2_of_operator%27s_manual.png" width="100%" alt="Perceptron"/>
+      <img src="https://zh.d2l.ai/_images/mlp.svg" width="100%" alt="Perceptron"/>
       <br/>
       <b>1958: 感知机 (Perceptron)</b><br/>
-      <sub>深度学习的黎明，Frank Rosenblatt 的 Mark I 机器。</sub>
+      <sub>深度学习的黎明，神经网络的最基础单元。</sub>
     </td>
+    <!-- 图2：AlexNet -->
+    <!-- 使用 D2L 中文官网的 AlexNet 架构图，极速加载 -->
     <td align="center" width="33%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/AlexNet_architecture.png/800px-AlexNet_architecture.png" width="100%" alt="AlexNet"/>
+      <img src="https://zh.d2l.ai/_images/alexnet.svg" width="100%" alt="AlexNet"/>
       <br/>
       <b>2012: AlexNet 时刻</b><br/>
-      <sub>ImageNet 竞赛的爆发，CNN 统治计算机视觉的开始。</sub>
+      <sub>ImageNet 竞赛的爆发，深层 CNN 的胜利。</sub>
     </td>
+    <!-- 图3：强化学习 (AlphaGo 核心) -->
+    <!-- 使用 D2L 中文官网的强化学习示意图，替代不稳定的 AlphaGo Logo -->
     <td align="center" width="33%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Lee_Sedol_%28B%29_vs_AlphaGo_%28W%29_-_Game_5.svg/426px-Lee_Sedol_%28B%29_vs_AlphaGo_%28W%29_-_Game_5.svg.png" width="100%" alt="AlphaGo"/>
+      <img src="https://zh.d2l.ai/_images/rl-environment.svg" width="100%" alt="RL"/>
       <br/>
-      <b>2016: AlphaGo</b><br/>
-      <sub>强化学习的巅峰，AI 战胜人类围棋冠军李世石。</sub>
+      <b>2016: 强化学习 (AlphaGo)</b><br/>
+      <sub>战胜人类冠军背后的核心技术：智能体与环境的交互。</sub>
     </td>
   </tr>
 </table>
