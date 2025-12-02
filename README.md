@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" />
 </div>
 
 <br/>
@@ -25,7 +24,7 @@
 
 ## 📖 前言：为什么是现在？
 
-几年前，深度学习还只是大公司实验室里的秘密武器。那时，我们的父母不知道什么是机器学习，神经网络被认为是过时的工具。
+几年前，深度学习还只是大公司实验室里的秘密武器。那时，没有人知道什么是机器学习，神经网络被认为是过时的工具。
 
 **但在过去的五年里，世界被重塑了：**
 *   🚗 **自动驾驶** 不再是科幻小说。
@@ -98,6 +97,22 @@
 
 ### 环境依赖
 ```python
-import torch
-from torch import nn
-from d2l import torch as d2l
+#@save
+import collections
+import hashlib
+import math
+import os
+import random
+import re
+import shutil
+import sys
+import tarfile
+import time
+import zipfile
+from collections import defaultdict
+import pandas as pd
+import requests
+from IPython import display
+from matplotlib import pyplot as plt
+from matplotlib_inline import backend_inline
+d2l = sys.modules[__name__]
